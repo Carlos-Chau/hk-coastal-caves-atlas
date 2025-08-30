@@ -58,16 +58,13 @@
 [U]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/U.html
 
 ## 港島
-- [V][V] 蒲台群島
 - [V1-3][V1-3] 蒲台島、螺洲
 - [V4-5][V4-5] 宋崗、橫瀾
-- [W][W] 香港島
 - [W1][W1] 大浪灣-石澳
 - [W2-3][W2-3] 鶴咀-狗脾
 - [W4][W4] 舂坎角
 - [W5][W5] 南塱山
 - [W6-7][W6-7] 鴨脷排-熨波洲
-- [X][X] 港內島嶼
 - [X1][X1] 南丫島
 
 [V]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/V.html
@@ -100,4 +97,4 @@
 [Z4-5]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/Z4-5.html
 
 ## 其他
-- [其他](https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/_.html)
+- [其他](https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/about.html)
