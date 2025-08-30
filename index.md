@@ -4,9 +4,6 @@
 - [A3][A3]. 娥眉東岸
 - [A4][A4]. 白沙洲-黃泥洲-洋洲
 - [A5][A5]. 鴨洲海
-<!---
-- B4. should be put here
--->
 [A1]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/A1.html
 [A2]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/A2.html
 [A3]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/A3.html
