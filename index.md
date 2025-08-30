@@ -68,6 +68,7 @@
 - [W5][W5] 南塱山
 - [W6-7][W6-7] 鴨脷排-熨波洲
 - [X][X] 港內島嶼
+- [X1][X1] 南丫島
 
 [V]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/V.html
 [V1-3]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/V1-3.html
@@ -79,21 +80,15 @@
 [W5]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/W5.html
 [W6-7]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/W6-7.html
 [X]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/X.html
-
+[X1]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/X1.html
 
 ## 大嶼山
-- [X1][X1] 南丫島
 - [X2-3][X2-3] 交椅洲、烏蠅排
 - [X4-5][X4-5] 長洲、坪洲
 - [X6-7][X6-7] 石鼓、馬灣
 - [Y][Y] 大嶼山
 - [Z][Z] 索罟群島
-- [Z1][Z1] 大鴉洲
-- [Z2][Z2] 小鴉洲
-- [Z3][Z3] 樟木頭
-- [Z4-5][Z4-5] 圓崗、頭鱸洲
 
-[X1]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/X1.html
 [X2-3]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/X2-3.html
 [X4-5]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/X4-5.html
 [X6-7]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/X6-7.html
@@ -103,3 +98,6 @@
 [Z2]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/Z2.html
 [Z3]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/Z3.html
 [Z4-5]:https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/Z4-5.html
+
+## 其他
+- [其他](https://carlos-chau.github.io/hk-coastal-caves-atlas/A-Z/_.html)
